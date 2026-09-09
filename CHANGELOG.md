@@ -1,3 +1,5 @@
+# OP-TEE - version 3.19.0-stm32mp-odyssey-r3 (2026-09-09)
+  - Cherry picked the xogium patches on the top of the official ST repo
 # OP-TEE - version 3.19.0 (2022-10-14)
 
 - Links to the release pages, commits and pull requests merged into this release for:
